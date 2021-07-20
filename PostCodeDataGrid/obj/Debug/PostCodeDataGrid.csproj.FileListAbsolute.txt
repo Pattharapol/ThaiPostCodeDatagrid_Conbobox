@@ -1,0 +1,13 @@
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\bin\Debug\PostCodeDataGrid.exe.config
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\bin\Debug\PostCodeDataGrid.exe
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\bin\Debug\PostCodeDataGrid.pdb
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.frmPostCodeDataGrid.resources
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.Properties.Resources.resources
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.csproj.GenerateResource.cache
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.exe
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.pdb
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\bin\Debug\System.Data.OleDb.dll
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\bin\Debug\System.Data.OleDb.xml
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.csproj.CopyComplete
+E:\#1 CodingArea\C#_Practice_Winform\PostCodeDataGrid\PostCodeDataGrid\obj\Debug\PostCodeDataGrid.csprojAssemblyReference.cache
